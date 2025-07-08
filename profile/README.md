@@ -1,22 +1,35 @@
-# Welcome to the ICG Research Software Engineering (RSE) Team!
+# Welcome to Innovation at the ICG!
 
-👋 We are a team of dedicated Research Software Engineers at the ICG, passionate about creating high-quality, sustainable, and impactful software for research.
+👋 **We are the Innovation Community at the Institute of Cosmology and Gravitation (ICG).**  
 
-Our mission is to empower researchers by providing the software engineering expertise needed to tackle complex scientific challenges. We collaborate closely with research groups to design, develop, and maintain the software that underpins modern scientific discovery.
+Our organisation brings together Research Software Engineers, Outreach Experts, Astrophysicists, Cosmologists, and students working on innovative projects across research, public engagement, and software development. We’re passionate about creating high-quality, sustainable, and impactful projects that advance scientific discovery, foster collaboration, and share our research with the wider world.
+
+## Our Mission
+
+Our mission is to support and amplify innovation in all its forms at the ICG. Whether through cutting-edge research software, creative outreach initiatives, or student-led projects, we aim to empower people with the tools, knowledge, and platforms they need to make a difference.
 
 ## What We Do
 
-Our work is diverse, but it's all centered around enabling better research through better software. Here are some of the things we do:
+Our work is diverse, reflecting the breadth of innovation at the ICG. Here’s some of what we’re involved in:
 
--   **💻 Develop Research Software:** We build robust and scalable software tools, from data analysis pipelines and simulations to web applications and visualization libraries.
--   **🤝 Collaborate on Projects:** We embed within research projects, acting as partners to provide crucial software engineering skills.
--   **📚 Promote Best Practices:** We champion and provide training on software development best practices, including version control (Git), automated testing, and continuous integration.
--   **💡 Provide Consultation:** We offer expert advice and support to researchers on all aspects of their software development lifecycle.
+- **💻 Develop Research Software:** We create robust and scalable software tools for data analysis, simulations, web applications, and visualisations, helping researchers tackle complex scientific challenges.
+
+- **🌍 Drive Public Engagement:** We develop innovative outreach projects to communicate our research, inspire curiosity, and engage communities with the wonders of astrophysics and cosmology.
+
+- **🚀 Support Student Innovation:** We mentor and collaborate on student projects, helping the next generation of researchers and developers build skills and contribute to meaningful initiatives.
+
+- **🤝 Collaborate Across Disciplines:** We work closely with research groups, outreach teams, and external partners, providing technical expertise and creative input for a wide range of projects.
+
+- **📚 Promote Best Practices:** We champion best practices in software development, project management, and research communication, offering guidance and training across the institute.
 
 ## Explore Our Projects
 
-Feel free to browse our public repositories to see what we're working on or visit our Briefcase for more information on individual projects.
+Explore our public repositories to see the diverse range of projects underway, from software tools and data pipelines to outreach websites and interactive experiences.
 
-➡️ **[Visit our ICG-RSE GitHub Organization](https://github.com/icg-rse) or our [Organisation Briefcase](https://icg-rse.github.io/)**
+➡️ **[Visit our ICG-Innovation GitHub Organisation](https://github.com/icg-innovation)**
 
+Or visit our Briefcase for an overview of individual projects and initiatives:
 
+➡️ **[ICG Innovation Briefcase](https://icg-innovation.github.io/)**
+
+---
